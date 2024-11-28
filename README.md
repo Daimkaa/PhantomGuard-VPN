@@ -1,16 +1,14 @@
-# phantomguard
+🌐 PhantomGuard-VPN
 
-A new Flutter project.
+Your gateway to secure and private internet browsing.
 
-## Getting Started
+PhantomGuard-VPN is a lightweight, fast, and secure virtual private network (VPN) solution designed to protect your online privacy, secure your data, and provide unrestricted access to the internet.
 
-This project is a starting point for a Flutter application.
+🔒 Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+	•	**End-to-End** Encryption: Safeguard your sensitive information from hackers and surveillance.
+	•	**Global Servers**: Seamlessly connect to servers worldwide for faster and unrestricted access.
+	•	**No Logs Policy**: We respect your privacy—no user data is ever stored.
+	•	**Cross-Platform**: Works on Windows, macOS, Linux, Android, and iOS.
+	•	**Customizable Protocols**: Supports OpenVPN, WireGuard, and more for advanced users.
+	•	**Kill Switch**: Automatically disconnect from the internet if the VPN connection drops.
